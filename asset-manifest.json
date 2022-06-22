@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/end-talk/static/css/main.71ecac34.css",
+    "main.js": "/end-talk/static/js/main.c67f263f.js",
+    "static/js/787.e78a9e4e.chunk.js": "/end-talk/static/js/787.e78a9e4e.chunk.js",
+    "index.html": "/end-talk/index.html",
+    "main.71ecac34.css.map": "/end-talk/static/css/main.71ecac34.css.map",
+    "main.c67f263f.js.map": "/end-talk/static/js/main.c67f263f.js.map",
+    "787.e78a9e4e.chunk.js.map": "/end-talk/static/js/787.e78a9e4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71ecac34.css",
+    "static/js/main.c67f263f.js"
+  ]
+}
