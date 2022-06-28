@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/end-talk/static/css/main.2f0e3fbc.css",
-    "main.js": "/end-talk/static/js/main.a7ff3620.js",
-    "static/js/787.e78a9e4e.chunk.js": "/end-talk/static/js/787.e78a9e4e.chunk.js",
-    "index.html": "/end-talk/index.html",
-    "main.2f0e3fbc.css.map": "/end-talk/static/css/main.2f0e3fbc.css.map",
-    "main.a7ff3620.js.map": "/end-talk/static/js/main.a7ff3620.js.map",
-    "787.e78a9e4e.chunk.js.map": "/end-talk/static/js/787.e78a9e4e.chunk.js.map"
+    "main.css": "/static/css/main.bc0c8225.css",
+    "main.js": "/static/js/main.35383e30.js",
+    "static/js/787.e78a9e4e.chunk.js": "/static/js/787.e78a9e4e.chunk.js",
+    "index.html": "/index.html",
+    "main.bc0c8225.css.map": "/static/css/main.bc0c8225.css.map",
+    "main.35383e30.js.map": "/static/js/main.35383e30.js.map",
+    "787.e78a9e4e.chunk.js.map": "/static/js/787.e78a9e4e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2f0e3fbc.css",
-    "static/js/main.a7ff3620.js"
+    "static/css/main.bc0c8225.css",
+    "static/js/main.35383e30.js"
   ]
 }
